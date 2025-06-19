@@ -3,3 +3,5 @@ scipy
 streamlit
 altair
 plotly
+
+#Did not work with specific versions included. 
